@@ -1,23 +1,30 @@
-<h1 align="center" style="font-size: 35px;">🚀 DevBrutal — Full Stack Developer</h1>
+<h1 align="center" style="font-size: 36px;">🚀 DevBrutal — Full Stack Web Developer</h1>
 
 <p align="center">
-  <b>Age 19 | I build websites that people actually use</b><br>
-  <i>Casino | E-commerce | API Games | Portfolio | Hosting | Auto Payment Integration</i>
+  <b>Age 19 | Crafting powerful websites & apps for every need</b><br>
+  <i>Gaming | eCommerce | Hosting | Investment | Casino | Portfolio & More</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Brutal**, known as **DevBrutal** in the dev world. I specialize in building:
+Hi! I'm **Brutal** (aka DevBrutal). I build custom websites and apps that help businesses and creators grow online.  
+Whether you want a sleek personal portfolio or a complex gaming or investment platform — I can make it happen!
 
-- Personal & Business Websites  
-- eCommerce Stores & Digital Product Platforms  
-- API-based Games (Crash, Color Prediction, Casino, etc.)  
-- Investment & Hosting Platforms  
-- Auto Payment Gateway Integration  
+---
 
-If you're looking to build a powerful and attractive website — **I’ve got you covered**.
+## 💻 Services I Offer:
+
+- **Gaming websites** (Casino, Poker, Crash Games, API-based games)  
+- **eCommerce stores** for digital & physical products  
+- **Hosting service websites**  
+- **Custom websites** tailored to your needs  
+- **Investment & finance platforms**  
+- **Personal portfolios & business websites** of all kinds  
+- **SMM Panels** (Social Media Marketing platforms)  
+- **Tournament apps & management systems**  
+- And much more — Whatever your idea is, I can build it!
 
 ---
 
@@ -57,4 +64,4 @@ If you're looking to build a powerful and attractive website — **I’ve got yo
 
 ---
 
-<p align="center"><b>Let’s build your dream website — Message me anytime!</b></p>
+<p align="center"><b>Got an idea? Let's build your dream website or app together. Contact me anytime!</b></p>
